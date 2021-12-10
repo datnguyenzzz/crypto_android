@@ -6,8 +6,9 @@
     tools:context="com.example.lab5.Setting">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <com.google.android.material.textview.MaterialTextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:textAppearance="@style/TextAppearance.Content"/>
 
 </FrameLayout>
