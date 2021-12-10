@@ -43,7 +43,6 @@
             android:id="@+id/currency_text"
             android:text="BTC"
             android:inputType="textPersonName"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
 
             app:layout_constraintEnd_toStartOf="@+id/search_button"
             app:layout_constraintStart_toStartOf="parent"
