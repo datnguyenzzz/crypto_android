@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        android:defaultValue="1"
+        app:key="@string/pref_days_count"
+        app:title="@string/daysCount"/>
+
+    <ListPreference
+        android:defaultValue="@string/usd"
+        android:entries="@array/currency"
+        android:entryValues="@array/currency"
+        android:key="@string/pref_currency"
+        android:title="@string/currency"/>
+
+</PreferenceScreen>

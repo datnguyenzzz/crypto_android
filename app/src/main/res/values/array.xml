@@ -1,0 +1,12 @@
+<resources>
+    <array name="currency">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </array>
+    <array name="language">
+        <item>RU</item>
+        <item>EN</item>
+    </array>
+</resources>

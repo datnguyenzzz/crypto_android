@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="settings">Setting</string>
+    <string name="currency">Currency</string>
+    <string name="language">Language</string>
+    <string name="usd">USD</string>
+    <string name="date">Date</string>
+    <string name="avg">Average value</string>
+    <string name="min_val">Minimum value</string>
+    <string name="max_val">Maximum value</string>
+    <string name="open">Open</string>
+    <string name="low">Low</string>
+    <string name="high">High</string>
+    <string name="close">Close</string>
+    <string name="volume_from">Volume from</string>
+    <string name="volume_to">Volume to</string>
+    <string name="pref_currency">Currency</string>
+    <string name="daysCount">Limit</string>
+    <string name="pref_days_count">DaysCount</string>
+    <string name="pref_language">Language</string>
+    <string name="view_more_link">view more on cryptocompare.com</string>
+    <string name="search">Search</string>
+
+    <string name="invalid_error"> Invalid Error !!!</string>
+    <string name="runtime_error"> Runtime Error !!!</string>
+</resources>
